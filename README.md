@@ -81,56 +81,52 @@
 
 ### Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/Java-Mx/bitchat-rustpy">BitChat RustPy</a></strong> &nbsp;<img src="https://img.shields.io/badge/Flagship-v0.3.4-161b22?style=flat-square&labelColor=0d1117&color=2f81f7" alt="Flagship Release v0.3.4" align="absmiddle" /><br />
-      <sub>Encrypted Peer-to-Peer Mesh Messaging</sub><br /><br />
-      Offline-first P2P mesh communication with an authoritative native Rust core, Noise XX cryptography, BLE &amp; LAN transports, and Microsoft WinGet distribution.<br /><br />
-      <code>Rust</code> <code>Python</code> <code>PyO3</code> <code>BLE</code> <code>LAN</code> <code>Noise XX</code><br /><br />
-      <a href="https://github.com/Java-Mx/bitchat-rustpy"><strong>View Repository &rarr;</strong></a> &nbsp;·&nbsp; <a href="https://java-mx.github.io/bitchat-rustpy/"><strong>Docs &rarr;</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>ACDRIS</strong> &nbsp;<img src="https://img.shields.io/badge/Status-Private-161b22?style=flat-square&labelColor=0d1117&color=6e7681" alt="Status: Private" align="absmiddle" /><br />
-      <sub>Airspace Conflict Detection &amp; Risk Intelligence System</sub><br /><br />
-      Real-time ADS-B surveillance across the Indian FIR with Haversine proximity and deterministic conflict scoring (BI decision-support layer, not ATC).<br /><br />
-      <code>Python</code> <code>PostgreSQL</code> <code>APScheduler</code> <code>Streamlit</code> <code>pydeck</code><br /><br />
-      <sub><em>Private / not currently published</em></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/Java-Mx/CTVAM-VulnerabilityAnalysisModel">CTVAM</a></strong> &nbsp;<img src="https://img.shields.io/badge/Status-Public-161b22?style=flat-square&labelColor=0d1117&color=2f81f7" alt="Status: Public" align="absmiddle" /><br />
-      <sub>Cybersecurity Threat &amp; Vulnerability Analysis Model</sub><br /><br />
-      Modular NVD CVE 2.0 ingestion, CVSS/EPSS/KEV enrichment, and rule-based explainable vulnerability prioritization.<br /><br />
-      <code>Python</code> <code>Pandas</code> <code>Streamlit</code> <code>PostgreSQL</code> <code>NVD 2.0</code><br /><br />
-      <a href="https://github.com/Java-Mx/CTVAM-VulnerabilityAnalysisModel"><strong>View Repository &rarr;</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/Java-Mx/Internet-Exposure-Engine">AERIS</a></strong> &nbsp;<img src="https://img.shields.io/badge/Status-Public-161b22?style=flat-square&labelColor=0d1117&color=2f81f7" alt="Status: Public" align="absmiddle" /><br />
-      <sub>Autonomous Exposure &amp; Risk Intelligence System</sub><br /><br />
-      Explainable internet exposure analysis combining anomaly detection, graph modeling, and transparent risk reporting.<br /><br />
-      <code>Python</code> <code>FastAPI</code> <code>PyTorch</code> <code>NetworkX</code> <code>Docker</code><br /><br />
-      <a href="https://github.com/Java-Mx/Internet-Exposure-Engine"><strong>View Repository &rarr;</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/Java-Mx/VMDB-OpenSourceSoftware">VMDB-OSS</a></strong> &nbsp;<img src="https://img.shields.io/badge/Status-Public-161b22?style=flat-square&labelColor=0d1117&color=2f81f7" alt="Status: Public" align="absmiddle" /><br />
-      <sub>Vulnerability Management Database for Open-Source Software</sub><br /><br />
-      Normalized 3NF MySQL schema with foreign keys, views, and stored procedures for CVE remediation and audit workflows.<br /><br />
-      <code>MySQL</code> <code>3NF Schema</code> <code>SQL Views</code> <code>Stored Procedures</code><br /><br />
-      <a href="https://github.com/Java-Mx/VMDB-OpenSourceSoftware"><strong>View Repository &rarr;</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Project 19</strong> &nbsp;<img src="https://img.shields.io/badge/Status-Private-161b22?style=flat-square&labelColor=0d1117&color=6e7681" alt="Status: Private" align="absmiddle" /><br />
-      <sub>Deterministic Cyber Risk Intelligence</sub><br /><br />
-      Auditable vulnerability risk scoring built on canonical validation schemas, explicit rules, and traceable thresholds.<br /><br />
-      <code>Python</code> <code>NVD CVE</code> <code>Canonical Schemas</code> <code>Rule Engine</code><br /><br />
-      <sub><em>Private repository</em></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Java-Mx/bitchat-rustpy">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/bitchat-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/projects/bitchat-light.svg" />
+      <img src="./assets/projects/bitchat-dark.svg" alt="BitChat RustPy — Flagship Encrypted Peer-to-Peer Mesh Messaging" width="49%" />
+    </picture>
+  </a>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/acdris-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/projects/acdris-light.svg" />
+    <img src="./assets/projects/acdris-dark.svg" alt="ACDRIS — Airspace Conflict Detection & Risk Intelligence System" width="49%" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Java-Mx/CTVAM-VulnerabilityAnalysisModel">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/ctvam-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/projects/ctvam-light.svg" />
+      <img src="./assets/projects/ctvam-dark.svg" alt="CTVAM — Cybersecurity Threat & Vulnerability Analysis Model" width="49%" />
+    </picture>
+  </a>&nbsp;
+  <a href="https://github.com/Java-Mx/Internet-Exposure-Engine">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/aeris-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/projects/aeris-light.svg" />
+      <img src="./assets/projects/aeris-dark.svg" alt="AERIS — Autonomous Exposure & Risk Intelligence System" width="49%" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Java-Mx/VMDB-OpenSourceSoftware">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/vmdb-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/projects/vmdb-light.svg" />
+      <img src="./assets/projects/vmdb-dark.svg" alt="VMDB-OSS — Vulnerability Management Database for Open-Source Software" width="49%" />
+    </picture>
+  </a>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/project19-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/projects/project19-light.svg" />
+    <img src="./assets/projects/project19-dark.svg" alt="Project 19 — Deterministic Cyber Risk Intelligence" width="49%" />
+  </picture>
+</p>
 
 ---
 

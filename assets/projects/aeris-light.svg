@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="442" height="184" viewBox="0 0 442 184" role="img" aria-label="AERIS — Autonomous Exposure &amp; Risk Intelligence System">
+  <rect x="0.5" y="0.5" width="441" height="183" rx="12" fill="#f6f8fa"/>
+  <rect x="0.5" y="0.5" width="441" height="183" rx="12" fill="none" stroke="#d0d7de" stroke-opacity="1" stroke-width="1"/>
+
+  <!-- Icon tile -->
+  <rect x="20" y="19" width="28" height="28" rx="7" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+
+    <g stroke="#0969da" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="34" cy="33" r="7.5"/>
+      <ellipse cx="34" cy="33" rx="3.4" ry="7.5"/>
+      <line x1="26.5" y1="33" x2="41.5" y2="33"/>
+    </g>
+
+  <!-- Title & subtitle -->
+  <text x="58" y="31" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600">AERIS</text>
+  <text x="58" y="47" fill="#656d76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">Autonomous Exposure &amp; Risk Intelligence System</text>
+
+  <!-- Status pill -->
+  <rect x="361" y="20" width="61" height="22" rx="11" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="391.5" y="34.5" text-anchor="middle" fill="#0969da" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="500">Public</text>
+
+  <!-- Description -->
+  <text x="20" y="78" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Explainable internet exposure analysis combining anomaly</text>
+  <text x="20" y="96" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">detection, graph modeling, and transparent risk reporting.</text>
+
+  <!-- Tech chips -->
+  <rect x="20" y="114" width="53" height="21" rx="5" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="46.5" y="128" text-anchor="middle" fill="#24292f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">Python</text>
+  <rect x="79" y="114" width="59" height="21" rx="5" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="108.5" y="128" text-anchor="middle" fill="#24292f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">FastAPI</text>
+  <rect x="144" y="114" width="59" height="21" rx="5" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="173.5" y="128" text-anchor="middle" fill="#24292f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">PyTorch</text>
+  <rect x="209" y="114" width="65" height="21" rx="5" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="241.5" y="128" text-anchor="middle" fill="#24292f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">NetworkX</text>
+  <rect x="280" y="114" width="53" height="21" rx="5" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <text x="306.5" y="128" text-anchor="middle" fill="#24292f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">Docker</text>
+
+  <!-- Footer -->
+  <line x1="20" y1="149" x2="422" y2="149" stroke="#d8dee4" stroke-width="1"/>
+  <text x="20" y="168" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">Apache-2.0</text>
+  <text x="422" y="168" text-anchor="end" fill="#0969da" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600">View Repository &#8594;</text>
+</svg>
