@@ -1,20 +1,22 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
-  <img alt="Ashwin Chhawaniya — AI, Cybersecurity, FinTech, Data Engineering" src="./assets/header-dark.svg" width="100%" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+    <img alt="Ashwin Chhawaniya — AI, Cybersecurity, FinTech, Data Engineering" src="./assets/header-dark.svg" width="100%" />
+  </picture>
+</p>
 
 <br />
 
-<a href="https://ashes.base44.app"><img src="https://img.shields.io/badge/Portfolio-ashes.base44.app-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff" alt="Portfolio — ashes.base44.app" height="28" /></a>
-<a href="https://linkedin.com/in/mxfed"><img src="https://img.shields.io/badge/LinkedIn-mxfed-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn — mxfed" height="28" /></a>
-<a href="https://github.com/Java-Mx"><img src="https://img.shields.io/badge/GitHub-Java--Mx-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3" alt="GitHub — Java-Mx" height="28" /></a>
-<a href="mailto:ashwinchhawaniya2@gmail.com"><img src="https://img.shields.io/badge/Email-ashwinchhawaniya2%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email — ashwinchhawaniya2@gmail.com" height="28" /></a>
-<a href="https://x.com/Itz_JavaMx"><img src="https://img.shields.io/badge/X-@Itz__JavaMx-0d1117?style=for-the-badge&logo=x&logoColor=e6edf3" alt="X — @Itz_JavaMx" height="28" /></a>
+<p align="center">
+  <a href="https://ashes.base44.app"><img src="https://img.shields.io/badge/Portfolio-ashes.base44.app-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff" alt="Portfolio — ashes.base44.app" height="28" /></a>&nbsp;
+  <a href="https://linkedin.com/in/mxfed"><img src="https://img.shields.io/badge/LinkedIn-mxfed-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn — mxfed" height="28" /></a>&nbsp;
+  <a href="https://github.com/Java-Mx"><img src="https://img.shields.io/badge/GitHub-Java--Mx-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3" alt="GitHub — Java-Mx" height="28" /></a>&nbsp;
+  <a href="mailto:ashwinchhawaniya2@gmail.com"><img src="https://img.shields.io/badge/Email-ashwinchhawaniya2%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email — ashwinchhawaniya2@gmail.com" height="28" /></a>&nbsp;
+  <a href="https://x.com/Itz_JavaMx"><img src="https://img.shields.io/badge/X-@Itz__JavaMx-0d1117?style=for-the-badge&logo=x&logoColor=e6edf3" alt="X — @Itz_JavaMx" height="28" /></a>
+</p>
 
-</div>
+<br />
 
 ---
 
@@ -32,26 +34,49 @@
 ### Tech Stack
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" height="32" />&nbsp;&nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,rust,html,css,js,postgres,mysql,sqlite,fastapi,sklearn,pytorch,docker,git,github,linux,githubactions&perline=16&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,rust,html,css,js,postgres,mysql,sqlite,fastapi,sklearn,pytorch,docker,git,github,linux,githubactions&perline=16&theme=light" />
-    <img alt="Python, Rust, HTML, CSS, JavaScript, PostgreSQL, MySQL, SQLite, FastAPI, Scikit-learn, PyTorch, Docker, Git, GitHub, Linux, GitHub Actions" src="https://skillicons.dev/icons?i=py,rust,html,css,js,postgres,mysql,sqlite,fastapi,sklearn,pytorch,docker,git,github,linux,githubactions&perline=16&theme=dark" height="34" />
-  </picture>
-  &nbsp;
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/rust-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+    <img src="./assets/rust-dark.svg" alt="Rust" title="Rust" height="32" />
+  </picture>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" title="SQL" height="32" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="32" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="32" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="32" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="32" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="32" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" height="32" />&nbsp;&nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/pandas-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-    <img src="./assets/pandas-dark.svg" alt="Pandas" title="Pandas" height="30" />
-  </picture>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" title="Streamlit" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" alt="NetworkX" title="NetworkX" height="30" />
-  <img src="https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=58a6ff" alt="SQL" height="24" />
-  <img src="https://img.shields.io/badge/Power%20BI-161b22?style=flat-square&logo=powerbi&logoColor=f2c811" alt="Power BI" height="24" />
-  <img src="https://img.shields.io/badge/APScheduler-161b22?style=flat-square&logo=python&logoColor=58a6ff" alt="APScheduler" height="24" />
-  <img src="https://img.shields.io/badge/PyO3-161b22?style=flat-square&logo=rust&logoColor=e6edf3" alt="PyO3" height="24" />
-  <img src="https://img.shields.io/badge/Maturin-161b22?style=flat-square&logo=rust&logoColor=e6edf3" alt="Maturin" height="24" />
+    <img src="./assets/pandas-dark.svg" alt="Pandas" title="Pandas" height="32" />
+  </picture>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" height="32" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" title="Streamlit" height="32" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" height="32" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" alt="NetworkX" title="NetworkX" height="32" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" height="32" />&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/scikitlearn-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+    <img src="./assets/scikitlearn-dark.svg" alt="Scikit-Learn" title="Scikit-Learn" height="32" />
+  </picture>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" height="32" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/powerbi.svg" alt="Power BI" title="Power BI" height="32" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="32" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" height="32" />&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+    <img src="./assets/github-dark.svg" alt="GitHub" title="GitHub" height="32" />
+  </picture>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" height="32" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux" height="32" />
+</p>
+
+<p align="center">
+  <sub>Ecosystem &amp; Tooling: PyO3 · Maturin · APScheduler · pydeck · SQLAlchemy · ReportLab</sub>
 </p>
 
 ---
