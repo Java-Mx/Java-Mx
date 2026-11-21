@@ -2,8 +2,10 @@
 """Generate unified dark & light, gridless GitHub heatmap, 30-day trend, and metrics SVGs."""
 
 import datetime
+import hashlib
 import json
 import os
+import re
 import sys
 import urllib.request
 from pathlib import Path
@@ -428,16 +430,38 @@ def render_metrics(user: dict, theme_name: str) -> str:
 '''
 
 
+def update_readme_cache_buster(content_hash: str) -> None:
+    readme_path = OUT_DIR.parent / "README.md"
+    if not readme_path.exists():
+        return
+    text = readme_path.read_text(encoding="utf-8")
+    updated = re.sub(
+        r"(https://raw\.githubusercontent\.com/Java-Mx/Java-Mx/main/assets/(?:heatmap|trend|metrics)-(?:dark|light)\.svg)(?:\?v=[0-9a-f]+)?",
+        rf"\1?v={content_hash}",
+        text,
+    )
+    if updated != text:
+        readme_path.write_text(updated, encoding="utf-8")
+
+
 def main() -> None:
     local_json = sys.argv[1] if len(sys.argv) > 1 else None
     user = fetch_user_data(local_json)
     calendar = user["contributionsCollection"]["contributionCalendar"]
     OUT_DIR.mkdir(parents=True, exist_ok=True)
+    hasher = hashlib.sha256()
     for theme in ("dark", "light"):
-        (OUT_DIR / f"heatmap-{theme}.svg").write_text(render_heatmap(calendar, theme), encoding="utf-8")
-        (OUT_DIR / f"trend-{theme}.svg").write_text(render_activity_curve(calendar, theme), encoding="utf-8")
-        (OUT_DIR / f"metrics-{theme}.svg").write_text(render_metrics(user, theme), encoding="utf-8")
-    print(f"Generated unified heatmap, trend, and metrics SVGs for @{USERNAME} ({calendar['totalContributions']} contributions).")
+        outputs = {
+            f"heatmap-{theme}.svg": render_heatmap(calendar, theme),
+            f"trend-{theme}.svg": render_activity_curve(calendar, theme),
+            f"metrics-{theme}.svg": render_metrics(user, theme),
+        }
+        for filename, svg in outputs.items():
+            (OUT_DIR / filename).write_text(svg, encoding="utf-8")
+            hasher.update(svg.encode("utf-8"))
+    short_hash = hasher.hexdigest()[:8]
+    update_readme_cache_buster(short_hash)
+    print(f"Generated unified heatmap, trend, and metrics SVGs for @{USERNAME} ({calendar['totalContributions']} contributions, v={short_hash}).")
 
 
 if __name__ == "__main__":
