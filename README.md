@@ -22,10 +22,13 @@
 
 ### About
 
-- AI undergraduate (`BBA Hons.`) at **Symbiosis Artificial Intelligence Institute, Pune**
-- Focused on **FinTech**, **Cybersecurity**, and **deterministic risk intelligence**
-- Engineering explainable pipelines, normalized security databases, and auditable scoring models
-- Building practical systems across native **Rust + Python** networking and vulnerability analytics
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/about-light.svg" />
+    <img alt="About Ashwin Chhawaniya — AI undergraduate focused on FinTech, Cybersecurity, deterministic risk intelligence, and Rust + Python systems" src="./assets/about-dark.svg" width="100%" />
+  </picture>
+</p>
 
 ---
 
@@ -160,13 +163,15 @@
 
 ### GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Java-Mx&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=7d8590" alt="Java-Mx GitHub Statistics" height="162" />
-<img src="https://streak-stats.demolab.com/?user=Java-Mx&theme=transparent&hide_border=true&ring=2f81f7&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=7d8590&dates=7d8590&currStreakNum=7d8590&sideNums=7d8590" alt="Java-Mx Contribution Streak" height="162" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Java-Mx&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=7d8590" alt="Java-Mx Top Languages" height="162" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/Java-Mx">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg" />
+      <img alt="Ashwin Chhawaniya (Java-Mx) live GitHub Activity, Contribution Streak, and Top Languages" src="./assets/stats-dark.svg" width="100%" />
+    </picture>
+  </a>
+</p>
 
 ---
 
