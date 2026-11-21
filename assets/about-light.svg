@@ -1,33 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="162" viewBox="0 0 900 162" role="img" aria-label="About Ashwin Chhawaniya">
-  <!-- Left Card: About Highlights -->
-  <rect x="0.5" y="0.5" width="564" height="161" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
-  <text x="24" y="29" fill="#0969da" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.2">PROFILE OVERVIEW</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="156" viewBox="0 0 900 156" role="img" aria-label="About Ashwin Chhawaniya">
+  <!-- Left Card: Human Editorial Bio -->
+  <rect x="0.5" y="0.5" width="574" height="155" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="26" y="31" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="500">Bio</text>
 
-  <circle cx="27" cy="54" r="3" fill="#0969da"/>
-  <text x="40" y="58" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.8">AI undergraduate (<tspan fill="#1f2328" font-weight="600">BBA Hons.</tspan>) at <tspan fill="#1f2328" font-weight="600">Symbiosis AI Institute, Pune</tspan></text>
+  <text x="26" y="60" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500">BBA (Hons.) AI student at Symbiosis Artificial Intelligence Institute, Pune.</text>
 
-  <circle cx="27" cy="82" r="3" fill="#0969da"/>
-  <text x="40" y="86" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.8">Focused on <tspan fill="#1f2328" font-weight="600">FinTech</tspan>, <tspan fill="#1f2328" font-weight="600">Cybersecurity</tspan>, and <tspan fill="#1f2328" font-weight="600">deterministic risk intelligence</tspan></text>
+  <text x="26" y="88" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">I write Python, Rust, and SQL—working across peer-to-peer mesh networking,</text>
+  <text x="26" y="109" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">vulnerability analysis, and relational security databases. Most of my work</text>
+  <text x="26" y="130" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">favors explicit, traceable rules over black-box predictions.</text>
 
-  <circle cx="27" cy="110" r="3" fill="#0969da"/>
-  <text x="40" y="114" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.8">Engineering explainable pipelines, 3NF security databases &amp; auditable models</text>
+  <!-- Right Card: Exploring -->
+  <rect x="590.5" y="0.5" width="309" height="155" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="614" y="31" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="500">Exploring</text>
 
-  <circle cx="27" cy="138" r="3" fill="#0969da"/>
-  <text x="40" y="142" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.8">Building practical systems across native <tspan fill="#1f2328" font-weight="600">Rust + Python</tspan> &amp; vulnerability analytics</text>
+  <text x="614" y="61" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Native Rust &amp; Systems</text>
+  <line x1="614" y1="76" x2="876" y2="76" stroke="#d8dee4" stroke-width="1"/>
 
-  <!-- Right Card: Currently Exploring -->
-  <rect x="580.5" y="0.5" width="319" height="161" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
-  <text x="602" y="29" fill="#0969da" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.2">CURRENTLY EXPLORING</text>
+  <text x="614" y="98" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">BLE &amp; LAN Mesh Networking</text>
+  <line x1="614" y1="113" x2="876" y2="113" stroke="#d8dee4" stroke-width="1"/>
 
-  <rect x="600" y="42" width="280" height="30" rx="7" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
-  <circle cx="615" cy="57" r="2.8" fill="#0969da"/>
-  <text x="627" y="61" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">Native Rust (<tspan fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">PyO3 / Maturin</tspan>)</text>
-
-  <rect x="600" y="80" width="280" height="30" rx="7" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
-  <circle cx="615" cy="95" r="2.8" fill="#0969da"/>
-  <text x="627" y="99" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">Cross-Platform BLE &amp; LAN Mesh</text>
-
-  <rect x="600" y="118" width="280" height="30" rx="7" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
-  <circle cx="615" cy="133" r="2.8" fill="#0969da"/>
-  <text x="627" y="137" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">Deterministic CVE &amp; Exposure Intel</text>
+  <text x="614" y="135" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Cyber Risk &amp; Vulnerability Data</text>
 </svg>
