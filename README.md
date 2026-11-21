@@ -24,9 +24,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/about-light.svg?v=2" />
-    <img alt="About Ashwin Chhawaniya — AI undergraduate focused on FinTech, Cybersecurity, deterministic risk intelligence, and Rust + Python systems" src="./assets/about-dark.svg?v=2" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/bio-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/bio-light.svg" />
+    <img alt="About Ashwin Chhawaniya — AI undergraduate focused on FinTech, Cybersecurity, and Rust + Python systems" src="./assets/bio-dark.svg" width="100%" />
   </picture>
 </p>
 
