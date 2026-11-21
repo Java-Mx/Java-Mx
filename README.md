@@ -27,8 +27,6 @@
 - Engineering explainable pipelines, normalized security databases, and auditable scoring models
 - Building practical systems across native **Rust + Python** networking and vulnerability analytics
 
-> **Currently exploring:** Native Rust (`PyO3` / `Maturin`) · Cross-platform BLE/LAN mesh systems · Deterministic CVE & exposure intelligence
-
 ---
 
 ### Tech Stack
