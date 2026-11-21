@@ -1,233 +1,219 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
-    <img alt="Ashwin Chhawaniya — AI, Cybersecurity, FinTech, Data Engineering" src="./assets/header-dark.svg" width="100%" />
-  </picture>
-</p>
+<div align="center">
 
-<p align="center">
-  Pune, India &nbsp;·&nbsp;
-  <a href="https://ashes.base44.app/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/mxfed/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://github.com/Java-Mx">GitHub</a> &nbsp;·&nbsp;
-  <a href="mailto:ashwinchhawaniya2@gmail.com">Email</a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+  <img alt="Ashwin Chhawaniya — AI, Cybersecurity, FinTech, Data Engineering" src="./assets/header-dark.svg" width="100%" />
+</picture>
 
----
+<br />
 
-## About Me
+**AI · CYBERSECURITY · FINTECH · DATA ENGINEERING** &nbsp;|&nbsp; Pune, India
 
-I am an undergraduate student pursuing a **BBA (Hons.) in Artificial Intelligence (FinTech & Cybersecurity)** at the **Symbiosis Artificial Intelligence Institute, Pune** (`2025–Present`).
+*Building explainable risk intelligence systems at the intersection of AI, cybersecurity, and data engineering.*
 
-My engineering work focuses on turning raw technical telemetry—vulnerability feeds, exposure metadata, and real-time operational streams—into **structured, explainable, and auditable decision systems** rather than opaque black-box outputs. Across my projects, I prioritize normalized data modeling, explicit rule-based scoring, reproducible pipelines, and clear analytical interfaces.
+<br />
 
-### Currently Exploring
-- **Security & Vulnerability Intelligence:** Deterministic scoring over NVD CVE 2.0, CVSS, EPSS, and KEV signals.
-- **Data & Database Engineering:** Relational modeling (3NF), audit trails, and real-time ingestion pipelines.
-- **Native Systems Engineering:** Building memory-safe protocol and cryptographic cores in Rust (`PyO3` / `Maturin`).
-- **Decentralized Networking:** Cross-platform peer-to-peer mesh communication over Bluetooth LE and local networks.
+<a href="https://ashes.base44.app"><img src="https://img.shields.io/badge/Portfolio-ashes.base44.app-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff" alt="Portfolio — ashes.base44.app" height="28" /></a>
+<a href="https://linkedin.com/in/mxfed"><img src="https://img.shields.io/badge/LinkedIn-mxfed-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn — mxfed" height="28" /></a>
+<a href="https://github.com/Java-Mx"><img src="https://img.shields.io/badge/GitHub-Java--Mx-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3" alt="GitHub — Java-Mx" height="28" /></a>
+<a href="mailto:ashwinchhawaniya2@gmail.com"><img src="https://img.shields.io/badge/Email-ashwinchhawaniya2%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email — ashwinchhawaniya2@gmail.com" height="28" /></a>
+<a href="https://x.com/Itz_JavaMx"><img src="https://img.shields.io/badge/X-@Itz__JavaMx-0d1117?style=for-the-badge&logo=x&logoColor=e6edf3" alt="X — @Itz_JavaMx" height="28" /></a>
+
+</div>
 
 ---
 
-## Technology Stack
+### About
 
-Technologies below are grouped by domain and separated by depth of use across my projects and coursework.
+- AI undergraduate (`BBA Hons.`) at **Symbiosis Artificial Intelligence Institute, Pune**
+- Focused on **FinTech**, **Cybersecurity**, and **deterministic risk intelligence**
+- Engineering explainable pipelines, normalized security databases, and auditable scoring models
+- Building practical systems across native **Rust + Python** software and vulnerability analytics
 
-### Programming & Core Languages
+> **Currently exploring:** Native Rust (`PyO3` / `Maturin`) & BLE/LAN mesh systems · Deterministic CVE/exposure scoring · Security data engineering
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+**Programming**  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,rust,html,css,js&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,rust,html,css,js&theme=light" />
+  <img alt="Python, Rust, HTML, CSS, JavaScript" src="https://skillicons.dev/icons?i=py,rust,html,css,js&theme=dark" height="44" />
+</picture>
+&nbsp;
+<img src="https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=58a6ff" alt="SQL" height="28" />
+
+<br />
+
+**Data, Analytics & ML**  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pandas-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+  <img src="./assets/pandas-dark.svg" alt="Pandas" title="Pandas" height="36" />
+</picture>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" height="36" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" title="Streamlit" height="36" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" height="36" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" alt="NetworkX" title="NetworkX" height="36" />
+<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,sklearn,pytorch&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,sklearn,pytorch&theme=light" />
+  <img alt="FastAPI, Scikit-learn, PyTorch" src="https://skillicons.dev/icons?i=fastapi,sklearn,pytorch&theme=dark" height="42" />
+</picture>
+&nbsp;
+<img src="https://img.shields.io/badge/Power%20BI-161b22?style=flat-square&logo=powerbi&logoColor=f2c811" alt="Power BI" height="28" />
+<img src="https://img.shields.io/badge/APScheduler-161b22?style=flat-square&logo=python&logoColor=58a6ff" alt="APScheduler" height="28" />
+
+<br />
+
+**Databases** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Infrastructure & Native Tooling**  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=light" />
+  <img alt="PostgreSQL, MySQL, SQLite" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" height="44" />
+</picture>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,github,linux,githubactions&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git,github,linux,githubactions&theme=light" />
+  <img alt="Docker, Git, GitHub, Linux, GitHub Actions" src="https://skillicons.dev/icons?i=docker,git,github,linux,githubactions&theme=dark" height="44" />
+</picture>
+<br />
+<img src="https://img.shields.io/badge/PyO3-161b22?style=flat-square&logo=rust&logoColor=e6edf3" alt="PyO3" height="26" />
+<img src="https://img.shields.io/badge/Maturin-161b22?style=flat-square&logo=rust&logoColor=e6edf3" alt="Maturin" height="26" />
+
+</div>
+
+---
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/Java-Mx/bitchat-rustpy">BitChat RustPy</a></strong> &nbsp;<img src="https://img.shields.io/badge/Flagship-v0.3.4-161b22?style=flat-square&labelColor=0d1117&color=2f81f7" alt="Flagship Release v0.3.4" align="absmiddle" /><br />
+      <sub>Encrypted Peer-to-Peer Mesh Messaging · Published on WinGet</sub><br /><br />
+      Offline-first P2P mesh communication powered by a native Rust core, Noise XX cryptography, BLE, and LAN transports.<br /><br />
+      <code>Rust</code> <code>Python</code> <code>PyO3</code> <code>Maturin</code> <code>BLE</code> <code>Noise XX</code><br /><br />
+      <a href="https://github.com/Java-Mx/bitchat-rustpy"><strong>View Repository &rarr;</strong></a> &nbsp;·&nbsp; <a href="https://java-mx.github.io/bitchat-rustpy/">Docs &amp; Downloads</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>ACDRIS</strong> &nbsp;<img src="https://img.shields.io/badge/Status-Private-161b22?style=flat-square&labelColor=0d1117&color=6e7681" alt="Status: Private" align="absmiddle" /><br />
+      <sub>Airspace Conflict Detection &amp; Risk Intelligence System</sub><br /><br />
+      Real-time ADS-B surveillance across the Indian FIR with Haversine proximity and deterministic conflict scoring (BI decision-support layer, not ATC).<br /><br />
+      <code>Python</code> <code>PostgreSQL</code> <code>APScheduler</code> <code>Streamlit</code> <code>pydeck</code><br /><br />
+      <sub><em>Private / not currently published</em></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/Java-Mx/CTVAM-VulnerabilityAnalysisModel">CTVAM</a></strong> &nbsp;<img src="https://img.shields.io/badge/Status-Public-161b22?style=flat-square&labelColor=0d1117&color=2f81f7" alt="Status: Public" align="absmiddle" /><br />
+      <sub>Cybersecurity Threat &amp; Vulnerability Analysis Model</sub><br /><br />
+      Modular NVD CVE 2.0 ingestion, CVSS/EPSS/KEV enrichment, and rule-based explainable vulnerability prioritization.<br /><br />
+      <code>Python</code> <code>Pandas</code> <code>Streamlit</code> <code>PostgreSQL</code> <code>NVD 2.0</code><br /><br />
+      <a href="https://github.com/Java-Mx/CTVAM-VulnerabilityAnalysisModel"><strong>View Repository &rarr;</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/Java-Mx/Internet-Exposure-Engine">AERIS</a></strong> &nbsp;<img src="https://img.shields.io/badge/Status-Public-161b22?style=flat-square&labelColor=0d1117&color=2f81f7" alt="Status: Public" align="absmiddle" /><br />
+      <sub>Autonomous Exposure &amp; Risk Intelligence System</sub><br /><br />
+      Explainable internet exposure analysis combining anomaly detection, graph modeling, and transparent risk reporting.<br /><br />
+      <code>Python</code> <code>FastAPI</code> <code>PyTorch</code> <code>NetworkX</code> <code>Docker</code><br /><br />
+      <a href="https://github.com/Java-Mx/Internet-Exposure-Engine"><strong>View Repository &rarr;</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Project 19</strong> &nbsp;<img src="https://img.shields.io/badge/Status-Private-161b22?style=flat-square&labelColor=0d1117&color=6e7681" alt="Status: Private" align="absmiddle" /><br />
+      <sub>Deterministic Cyber Risk Intelligence</sub><br /><br />
+      Auditable vulnerability risk scoring built on canonical validation schemas, explicit rules, and traceable thresholds.<br /><br />
+      <code>Python</code> <code>NVD CVE</code> <code>Canonical Schemas</code> <code>Rule Engine</code><br /><br />
+      <sub><em>Private repository</em></sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/Java-Mx/VMDB-OpenSourceSoftware">VMDB-OSS</a></strong> &nbsp;<img src="https://img.shields.io/badge/Status-Public-161b22?style=flat-square&labelColor=0d1117&color=2f81f7" alt="Status: Public" align="absmiddle" /><br />
+      <sub>Vulnerability Management Database for Open-Source Software</sub><br /><br />
+      Normalized 3NF MySQL schema with foreign keys, views, and stored procedures for CVE remediation and audit workflows.<br /><br />
+      <code>MySQL</code> <code>3NF Schema</code> <code>SQL Views</code> <code>Stored Procedures</code><br /><br />
+      <a href="https://github.com/Java-Mx/VMDB-OpenSourceSoftware"><strong>View Repository &rarr;</strong></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/Java-Mx">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Java-Mx&theme=github_dark" alt="Ashwin Chhawaniya (Java-Mx) full-year dark GitHub contribution overview" width="100%" />
+</a>
+
+<br />
+
+<a href="https://github.com/Java-Mx">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Java-Mx&bg_color=0d1117&color=e6edf3&line=2f81f7&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&grid=false" alt="Ashwin Chhawaniya (Java-Mx) dark grid-free GitHub contribution activity graph" width="100%" />
+</a>
+
+<sub>Live dark-theme contribution graphs for <a href="https://github.com/Java-Mx">@Java-Mx</a> · Recent profile snapshot: 228 contributions in the last year (view full live calendar on <a href="https://github.com/Java-Mx">GitHub</a>).</sub>
+
+</div>
+
+---
+
+### GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Java-Mx&show_icons=true&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Java-Mx GitHub Statistics" height="162" />
+<img src="https://streak-stats.demolab.com/?user=Java-Mx&background=0d1117&hide_border=true&ring=2f81f7&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" alt="Java-Mx Contribution Streak" height="162" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Java-Mx&layout=compact&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Java-Mx Top Languages" height="162" />
+
+</div>
+
+---
+
+### Current Focus
+
+<table>
+  <tr>
+    <td width="33%" align="center"><strong>Native Rust Systems</strong><br /><sub>Memory-safe protocol &amp; P2P networking</sub></td>
+    <td width="33%" align="center"><strong>Deterministic Cyber Risk</strong><br /><sub>Auditable vulnerability &amp; exposure scoring</sub></td>
+    <td width="33%" align="center"><strong>Explainable Data Engineering</strong><br /><sub>Structured pipelines &amp; security analytics</sub></td>
+  </tr>
+</table>
+
+---
+
+### Education & Certifications
+
+**BBA (Hons.) in Artificial Intelligence** — Symbiosis Artificial Intelligence Institute, Pune (`2025–Present`)
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,rust,html,css,js&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,rust,html,css,js&theme=light" />
-    <img alt="Python, Rust, HTML, CSS, JavaScript" src="https://skillicons.dev/icons?i=py,rust,html,css,js&theme=dark" height="44" />
-  </picture>
-</p>
-
-| Tier | Languages |
-| :--- | :--- |
-| **Core / Regularly Used** | Python, SQL |
-| **Expanding / Systems Focus** | Rust (`PyO3`, `Maturin`) |
-| **Project-Specific** | HTML, CSS, JavaScript |
-
-### Data, Analytics & ML Engineering
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/pandas-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-    <img src="./assets/pandas-dark.svg" alt="Pandas" title="Pandas" height="36" />
-  </picture>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" height="36" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" title="Streamlit" height="36" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" height="36" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" alt="Plotly" title="Plotly" height="36" />&nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/sqlalchemy-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
-    <img src="./assets/sqlalchemy-dark.svg" alt="SQLAlchemy" title="SQLAlchemy" height="36" />
-  </picture>
-</p>
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,sklearn,fastapi&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,sklearn,fastapi&theme=light" />
-    <img alt="PyTorch, Scikit-Learn, FastAPI" src="https://skillicons.dev/icons?i=pytorch,sklearn,fastapi&theme=dark" height="44" />
-  </picture>
-</p>
-
-| Tier | Libraries & Platforms |
-| :--- | :--- |
-| **Core / Regularly Used** | Pandas, NumPy, Streamlit, Jupyter, Power BI, pydeck |
-| **Project-Specific** | Scikit-Learn, Plotly, SQLAlchemy, FastAPI, PyTorch, NetworkX, ReportLab |
-
-### Databases & Infrastructure
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=light" />
-    <img alt="MySQL, PostgreSQL, SQLite" src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" height="44" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,github,linux&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git,github,linux&theme=light" />
-    <img alt="Docker, Git, GitHub, Linux" src="https://skillicons.dev/icons?i=docker,git,github,linux&theme=dark" height="44" />
-  </picture>
-</p>
-
-| Category | Core / Regularly Used | Project-Specific |
-| :--- | :--- | :--- |
-| **Databases** | MySQL, PostgreSQL | SQLite |
-| **Infrastructure & Tools** | Git, GitHub, Docker, Linux Terminal, Google Colab, APScheduler, LaTeX, Markdown | GitHub Actions CI, WinGet Packaging |
-
-### Cybersecurity & Risk Intelligence Domain
-
-| Focus Area | Applied Practice |
-| :--- | :--- |
-| **Vulnerability Intelligence** | NVD CVE 2.0 ingestion, CVSS / EPSS / KEV enrichment, rule-based prioritization |
-| **Risk Modeling** | Deterministic scoring engines, canonical validation schemas, auditable decision outputs |
-| **Security Data Engineering** | Third Normal Form (3NF) vulnerability schemas, remediation tracking, audit logging |
-| **Privacy & Governance** | GDPR data privacy principles, exposure analysis, transparent reporting |
-
----
-
-## Featured Projects
-
-### 1. ACDRIS — Airspace Conflict Detection & Risk Intelligence System
-`Python` · `APScheduler` · `PostgreSQL / MySQL` · `Streamlit` · `pydeck` · `OpenSky Network API`  
-**Status:** Completed end-to-end architecture *(private / not currently published)*
-
-A five-layer real-time surveillance and risk-intelligence pipeline designed as a **decision-support and business-intelligence layer**—explicitly not an air traffic control replacement.
-- Ingests live ADS-B telemetry across the Indian FIR (`8°–37°N, 68°–97°E`) via the OpenSky Network API with automated scheduling through `APScheduler`.
-- Implements a Haversine-based proximity engine and a four-factor deterministic risk model (horizontal separation, vertical separation, closing speed, and flight phase) benchmarked against ICAO Doc 4444 minima (`5 NM` horizontal / `1,000 ft` vertical).
-- Maps conflict scores into a tiered severity framework (`Critical / High / Medium / Low`) rendered on a live `Streamlit` + `pydeck` dashboard backed by a normalized SQL schema for reproducible audits.
-
----
-
-### 2. CTVAM — Cybersecurity Threat & Vulnerability Analysis Model
-`Python` · `Pandas` · `Streamlit` · `SQLAlchemy` · `PostgreSQL` · `ReportLab` · `NVD CVE 2.0`  
-**Repository:** [Java-Mx/CTVAM-VulnerabilityAnalysisModel](https://github.com/Java-Mx/CTVAM-VulnerabilityAnalysisModel) · **Status:** Public · Apache-2.0
-
-A modular vulnerability analytics and prioritization framework converting raw NVD feeds into structured, explainable assessments.
-- Ingests and preprocesses NVD CVE 2.0 JSON/CSV data with CVSS, EPSS, and KEV enrichment plus temporal delta analysis.
-- Applies structured rule-based prioritization to isolate high-impact vulnerabilities without relying on opaque scoring.
-- Generates explainable analytical views and structured PDF reports suited for technical and decision-making workflows.
-
----
-
-### 3. Project 19 — Deterministic Cyber Risk Intelligence
-`Python` · `NVD CVE` · `Canonical Schemas` · `Rule-Based Scoring`  
-**Status:** Completed framework *(private repository)*
-
-A judgment-first cyber risk intelligence system built around strict schema validation, traceable logic, and auditable outputs.
-- Ingests and validates real-world NVD CVE records against canonical data schemas with explicit readiness gating.
-- Defines transparent priorities, rules, and thresholds so every risk score remains reproducible and inspectable.
-- Translates technical vulnerability signals into executive-ready risk summaries without black-box ML dependencies.
-
----
-
-### 4. VMDB-OSS — Vulnerability Management Database for Open-Source Software
-`MySQL` · `3NF Relational Modeling` · `SQL Views` · `Stored Procedures`  
-**Repository:** [Java-Mx/VMDB-OpenSourceSoftware](https://github.com/Java-Mx/VMDB-OpenSourceSoftware) · **Status:** Public · MIT
-
-A normalized relational database architecture modeling enterprise open-source vulnerability management and software supply-chain tracking.
-- Implements a Third Normal Form (3NF) MySQL schema across 7 core tables linking users, projects, packages, CVEs, remediation actions, and audit logs.
-- Enforces data integrity with foreign-key constraints, `CHECK` constraints, and `ENUM`-based remediation status lifecycles.
-- Includes operational SQL views and stored procedures for remediation workflows, compliance auditing, and security reporting.
-
----
-
-### 5. AERIS — Autonomous Exposure & Risk Intelligence System (`Internet-Exposure-Engine`)
-`Python` · `FastAPI` · `Streamlit` · `Scikit-Learn` · `PyTorch` · `NetworkX` · `Docker`  
-**Repository:** [Java-Mx/Internet-Exposure-Engine](https://github.com/Java-Mx/Internet-Exposure-Engine) · **Status:** Public · Apache-2.0
-
-An explainable exposure-analysis engine that inspects publicly available internet metadata to identify and score digital security risks proactively.
-- Combines graph analysis (`NetworkX`), anomaly detection, and transparent risk-scoring modules to produce interpretable exposure reports.
-- Ships with an interactive `Streamlit` dashboard, `FastAPI` backend layer, `SQLAlchemy` persistence, and `ReportLab` PDF reporting.
-- Structured with automated `pytest` coverage, CI workflows, dataset audit documentation, and container deployment configurations (`Docker` / Kubernetes).
-
----
-
-### 6. BitChat RustPy — Encrypted Peer-to-Peer Mesh Messaging
-`Python` · `Rust` · `PyO3 / Maturin` · `Noise XX` · `Bluetooth LE` · `LAN Mesh`  
-**Repository:** [Java-Mx/bitchat-rustpy](https://github.com/Java-Mx/bitchat-rustpy) · **Status:** Active (`v0.3.4`) · MIT · Distributed on Microsoft WinGet
-
-An offline-first, terminal-native encrypted mesh communication system operating over Bluetooth Low Energy and local networks without centralized servers.
-- Accelerates protocol and cryptographic internals through a native Rust core (`_bitchat_core`) implementing Noise XX handshakes, AEAD/Ed25519 primitives, mesh routing, and store-and-forward queuing.
-- Supports cross-platform BLE and LAN transports with protocol interoperability across native TUI clients (`bitchat-tui`).
-- Packaged across Windows installers, Linux `.deb`/AppImage artifacts, Python wheels, and merged community manifests in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs).
-
-> *Additional public repositories: [Customer-Complaint-NLP](https://github.com/Java-Mx/Customer-Complaint-NLP) (TF-IDF & cosine-similarity NLP categorization pipeline) · [Finance-Management-Model](https://github.com/Java-Mx/Finance-Management-Model) (Python & MySQL personal finance system).*
-
----
-
-## Education & Certifications
-
-### Education
-- **BBA (Hons.) in Artificial Intelligence** — *FinTech & Cybersecurity Focus*  
-  Symbiosis Artificial Intelligence Institute, Pune · `2025–Present`
-- **Senior Secondary (CBSE)** — Delhi Public School, Bhopal · `2024–2025` *(90% / CGPA 9.0)*
-
-### Certifications
-
-| Credential | Issuing Organization | Focus Area | Year |
-| :--- | :--- | :--- | :---: |
-| GDPR Certification | Udemy | Data Privacy Compliance | 2026 |
-| Advanced SQL | HackerRank | Relational Databases | 2026 |
-| Problem Solving (Intermediate) | HackerRank | Algorithmic Reasoning | 2026 |
-| CEH v13: Introduction to Ethical Hacking | Skillsoft | Ethical Hacking | 2025 |
-| Azure Fundamentals: IoT & AI | Skillsoft | Cloud Fundamentals | 2025 |
-| DELF A2 & DELF A1 (French) | Alliance Française de Bhopal | CEFR A2 / A1 Proficiency | 2024–2025 |
-
----
-
-## Current Focus
-
-| Active Work | Next / Exploring |
-| :--- | :--- |
-| Refining deterministic vulnerability and exposure risk-scoring pipelines (`CTVAM`, `AERIS`) | Deepening Rust systems engineering for async networking and standalone native binaries |
-| Migrating protocol, state, and transport layers to native Rust in `bitchat-rustpy` and maintaining WinGet releases | Applying real-time data engineering and explainable analytics to FinTech risk problems |
-| Designing normalized relational schemas and auditable security reporting workflows | Building reproducible validation and evaluation harnesses for decision-support systems |
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Java-Mx&show_icons=true&theme=transparent&hide_border=true&title_color=2f81f7&icon_color=2f81f7&text_color=7d8590" alt="Ashwin Chhawaniya's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Java-Mx&layout=compact&theme=transparent&hide_border=true&title_color=2f81f7&text_color=7d8590" alt="Most Used Languages" height="165" />
+  <img src="https://img.shields.io/badge/GDPR_Certification-Udemy-161b22?style=flat-square&labelColor=0d1117&color=2f81f7" alt="GDPR Certification — Udemy" />
+  <img src="https://img.shields.io/badge/Advanced_SQL-HackerRank-161b22?style=flat-square&labelColor=0d1117&logo=hackerrank&logoColor=58a6ff&color=2f81f7" alt="Advanced SQL — HackerRank" />
+  <img src="https://img.shields.io/badge/Problem_Solving_(Intermediate)-HackerRank-161b22?style=flat-square&labelColor=0d1117&logo=hackerrank&logoColor=58a6ff&color=2f81f7" alt="Problem Solving Intermediate — HackerRank" />
+  <img src="https://img.shields.io/badge/CEH_v13_Intro_to_Ethical_Hacking-Skillsoft-161b22?style=flat-square&labelColor=0d1117&color=2f81f7" alt="CEH v13 Introduction to Ethical Hacking — Skillsoft" />
+  <img src="https://img.shields.io/badge/Azure_Fundamentals:_IoT_%26_AI-Skillsoft-161b22?style=flat-square&labelColor=0d1117&color=2f81f7" alt="Azure Fundamentals: IoT & AI — Skillsoft" />
+  <img src="https://img.shields.io/badge/DELF_A1_%26_A2-French-161b22?style=flat-square&labelColor=0d1117&color=2f81f7" alt="DELF A1 and A2 — French" />
 </p>
 
 ---
 
-## Connect
+<div align="center">
 
-- **Portfolio:** [ashes.base44.app](https://ashes.base44.app/)
-- **LinkedIn:** [linkedin.com/in/mxfed](https://www.linkedin.com/in/mxfed/)
-- **GitHub:** [github.com/Java-Mx](https://github.com/Java-Mx)
-- **X:** [@Itz_JavaMx](https://x.com/Itz_JavaMx)
-- **Email:** [ashwinchhawaniya2@gmail.com](mailto:ashwinchhawaniya2@gmail.com)
-- **Location:** Pune, Maharashtra, India
+**Connect**
+
+<a href="https://ashes.base44.app">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://linkedin.com/in/mxfed">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://github.com/Java-Mx">GitHub</a> &nbsp;·&nbsp;
+<a href="mailto:ashwinchhawaniya2@gmail.com">Email</a> &nbsp;·&nbsp;
+<a href="https://x.com/Itz_JavaMx">X</a>
+
+</div>
