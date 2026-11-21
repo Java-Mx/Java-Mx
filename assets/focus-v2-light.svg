@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="124" viewBox="0 0 900 124" role="img" aria-label="Current Focus">
+  <rect x="0.5" y="0.5" width="289" height="123" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="22.5" y="29" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="500">01</text>
+  <text x="22.5" y="53" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Native Rust &amp; Systems</text>
+  <line x1="22.5" y1="67" x2="267.5" y2="67" stroke="#d8dee4" stroke-width="1"/>
+  <text x="22.5" y="88" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Protocol cores, Noise XX crypto,</text>
+  <text x="22.5" y="106" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">and cross-platform P2P meshes.</text>
+  <rect x="305.5" y="0.5" width="289" height="123" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="327.5" y="29" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="500">02</text>
+  <text x="327.5" y="53" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Cyber Risk Intelligence</text>
+  <line x1="327.5" y1="67" x2="572.5" y2="67" stroke="#d8dee4" stroke-width="1"/>
+  <text x="327.5" y="88" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Explicit, traceable CVE and</text>
+  <text x="327.5" y="106" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">exposure scoring pipelines.</text>
+  <rect x="610.5" y="0.5" width="289" height="123" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="632.5" y="29" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="500">03</text>
+  <text x="632.5" y="53" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Security Data Engineering</text>
+  <line x1="632.5" y1="67" x2="877.5" y2="67" stroke="#d8dee4" stroke-width="1"/>
+  <text x="632.5" y="88" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Normalized 3NF schemas, live</text>
+  <text x="632.5" y="106" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">ingestion, and audit analytics.</text>
+</svg>

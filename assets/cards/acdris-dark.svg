@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="442" height="162" viewBox="0 0 442 162" role="img" aria-label="ACDRIS">
+  <rect x="0.5" y="0.5" width="441" height="161" rx="12" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+
+  <text x="24" y="30" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="500">Private · BI System</text>
+  <text x="418" y="30" text-anchor="end" fill="#7d8590" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400">Private</text>
+
+  <text x="24" y="57" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600">ACDRIS</text>
+
+  <text x="24" y="81" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Real-time Indian FIR ADS-B surveillance with Haversine proximity</text>
+  <text x="24" y="99" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">and deterministic conflict scoring (decision-support, not ATC).</text>
+
+  <line x1="24" y1="119" x2="418" y2="119" stroke="#21262d" stroke-width="1"/>
+  <text x="24" y="141" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">Python · PostgreSQL · APScheduler · Streamlit · pydeck</text>
+</svg>

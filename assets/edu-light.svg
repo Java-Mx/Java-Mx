@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="252" viewBox="0 0 900 252" role="img" aria-label="Education and Certifications">
+  <!-- Education Card -->
+  <rect x="0.5" y="0.5" width="899" height="78" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="26" y="27" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="500">Education</text>
+  <text x="874" y="27" text-anchor="end" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="500">2025 – Present</text>
+  <text x="26" y="55" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600">BBA (Hons.) in Artificial Intelligence</text>
+  <text x="874" y="55" text-anchor="end" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Symbiosis Artificial Intelligence Institute, Pune · FinTech &amp; Cybersecurity</text>
+
+  <!-- Certifications Card -->
+  <rect x="0.5" y="94.5" width="899" height="157" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+  <text x="26" y="121" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="500">Certifications</text>
+  <line x1="450" y1="132" x2="450" y2="234" stroke="#d8dee4" stroke-width="1"/>
+  <text x="26" y="148" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">GDPR Certification</text>
+  <text x="424" y="148" text-anchor="end" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">Udemy · 2026</text>
+  <text x="476" y="148" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">CEH v13: Intro to Ethical Hacking</text>
+  <text x="874" y="148" text-anchor="end" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">Skillsoft · 2025</text>
+  <line x1="26" y1="162" x2="424" y2="162" stroke="#d8dee4" stroke-width="1"/>
+  <line x1="476" y1="162" x2="874" y2="162" stroke="#d8dee4" stroke-width="1"/>
+  <text x="26" y="186" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Advanced SQL</text>
+  <text x="424" y="186" text-anchor="end" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">HackerRank · 2026</text>
+  <text x="476" y="186" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Azure Fundamentals: IoT &amp; AI</text>
+  <text x="874" y="186" text-anchor="end" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">Skillsoft · 2025</text>
+  <line x1="26" y1="200" x2="424" y2="200" stroke="#d8dee4" stroke-width="1"/>
+  <line x1="476" y1="200" x2="874" y2="200" stroke="#d8dee4" stroke-width="1"/>
+  <text x="26" y="224" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">Problem Solving (Intermediate)</text>
+  <text x="424" y="224" text-anchor="end" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">HackerRank · 2026</text>
+  <text x="476" y="224" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500">DELF A1 &amp; A2 (French)</text>
+  <text x="874" y="224" text-anchor="end" fill="#656d76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">Alliance Française · 2024–25</text>
+</svg>

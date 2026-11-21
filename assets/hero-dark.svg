@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="164" viewBox="0 0 900 164" role="img" aria-label="Ashwin Chhawaniya — AI, Cybersecurity, FinTech, Data Engineering">
+  <rect x="0.5" y="0.5" width="899" height="163" rx="12" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+
+  <text x="28" y="31" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="500">@Java-Mx</text>
+  <text x="872" y="31" text-anchor="end" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="500">Pune, India</text>
+
+  <text x="28" y="72" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="600" letter-spacing="-0.4">Ashwin Chhawaniya</text>
+  <text x="28" y="97" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5">AI  ·  Cybersecurity  ·  FinTech  ·  Data Engineering</text>
+
+  <line x1="28" y1="116" x2="872" y2="116" stroke="#21262d" stroke-width="1"/>
+
+  <text x="28" y="140" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Building deterministic, explainable software across systems, security, and data.</text>
+  <text x="872" y="140" text-anchor="end" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">Symbiosis AI Institute, Pune</text>
+</svg>

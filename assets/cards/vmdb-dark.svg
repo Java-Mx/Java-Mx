@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="442" height="162" viewBox="0 0 442 162" role="img" aria-label="VMDB-OSS">
+  <rect x="0.5" y="0.5" width="441" height="161" rx="12" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+
+  <text x="24" y="30" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="500">Public · MIT</text>
+  <text x="418" y="30" text-anchor="end" fill="#58a6ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500">View Repository &#8594;</text>
+
+  <text x="24" y="57" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600">VMDB-OSS</text>
+
+  <text x="24" y="81" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Normalized 3NF MySQL schema with enforced foreign keys, views,</text>
+  <text x="24" y="99" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">and stored procedures for open-source CVE remediation audits.</text>
+
+  <line x1="24" y1="119" x2="418" y2="119" stroke="#21262d" stroke-width="1"/>
+  <text x="24" y="141" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">MySQL · 3NF Schema · SQL Views · Stored Procedures</text>
+</svg>

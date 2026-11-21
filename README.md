@@ -1,19 +1,19 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
-    <img alt="Ashwin Chhawaniya — AI, Cybersecurity, FinTech, Data Engineering" src="./assets/header-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+    <img alt="Ashwin Chhawaniya — AI, Cybersecurity, FinTech, Data Engineering" src="./assets/hero-dark.svg" width="100%" />
   </picture>
 </p>
 
 <br />
 
 <p align="center">
-  <a href="https://ashes.base44.app"><img src="https://img.shields.io/badge/Portfolio-ashes.base44.app-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff" alt="Portfolio — ashes.base44.app" height="28" /></a>&nbsp;
-  <a href="https://linkedin.com/in/mxfed"><img src="https://img.shields.io/badge/LinkedIn-mxfed-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn — mxfed" height="28" /></a>&nbsp;
-  <a href="https://github.com/Java-Mx"><img src="https://img.shields.io/badge/GitHub-Java--Mx-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3" alt="GitHub — Java-Mx" height="28" /></a>&nbsp;
-  <a href="mailto:ashwinchhawaniya2@gmail.com"><img src="https://img.shields.io/badge/Email-ashwinchhawaniya2%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email — ashwinchhawaniya2@gmail.com" height="28" /></a>&nbsp;
-  <a href="https://x.com/Itz_JavaMx"><img src="https://img.shields.io/badge/X-@Itz__JavaMx-0d1117?style=for-the-badge&logo=x&logoColor=e6edf3" alt="X — @Itz_JavaMx" height="28" /></a>
+  <a href="https://ashes.base44.app"><img src="https://img.shields.io/badge/Portfolio-ashes.base44.app-161b22?style=flat-square&labelColor=0d1117&logo=vercel&logoColor=58a6ff" alt="Portfolio — ashes.base44.app" height="26" /></a>&nbsp;
+  <a href="https://linkedin.com/in/mxfed"><img src="https://img.shields.io/badge/LinkedIn-mxfed-161b22?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=58a6ff" alt="LinkedIn — mxfed" height="26" /></a>&nbsp;
+  <a href="https://github.com/Java-Mx"><img src="https://img.shields.io/badge/GitHub-Java--Mx-161b22?style=flat-square&labelColor=0d1117&logo=github&logoColor=e6edf3" alt="GitHub — Java-Mx" height="26" /></a>&nbsp;
+  <a href="mailto:ashwinchhawaniya2@gmail.com"><img src="https://img.shields.io/badge/Email-ashwinchhawaniya2%40gmail.com-161b22?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=58a6ff" alt="Email — ashwinchhawaniya2@gmail.com" height="26" /></a>&nbsp;
+  <a href="https://x.com/Itz_JavaMx"><img src="https://img.shields.io/badge/X-@Itz__JavaMx-161b22?style=flat-square&labelColor=0d1117&logo=x&logoColor=e6edf3" alt="X — @Itz_JavaMx" height="26" /></a>
 </p>
 
 <br />
@@ -26,7 +26,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/bio-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/bio-light.svg" />
-    <img alt="About Ashwin Chhawaniya — AI undergraduate focused on FinTech, Cybersecurity, and Rust + Python systems" src="./assets/bio-dark.svg" width="100%" />
+    <img alt="About Ashwin Chhawaniya — BBA (Hons.) AI student building Rust, Python, and SQL systems" src="./assets/bio-dark.svg" width="100%" />
   </picture>
 </p>
 
@@ -46,7 +46,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="32" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="32" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="32" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="32" />&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/mysql-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <img src="./assets/mysql-dark.svg" alt="MySQL" title="MySQL" height="32" />
+  </picture>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" height="32" />&nbsp;&nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/pandas-dark.svg" />
@@ -77,7 +81,7 @@
 </p>
 
 <p align="center">
-  <sub>Ecosystem &amp; Tooling: PyO3 · Maturin · APScheduler · pydeck · SQLAlchemy · ReportLab</sub>
+  <sub>APScheduler · pydeck · SQLAlchemy · ReportLab</sub>
 </p>
 
 ---
@@ -87,31 +91,31 @@
 <p align="center">
   <a href="https://github.com/Java-Mx/bitchat-rustpy">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/bitchat-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/projects/bitchat-light.svg" />
-      <img src="./assets/projects/bitchat-dark.svg" alt="BitChat RustPy — Flagship Encrypted Peer-to-Peer Mesh Messaging" width="49%" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/bitchat-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/bitchat-light.svg" />
+      <img src="./assets/cards/bitchat-dark.svg" alt="BitChat RustPy — Flagship Encrypted Peer-to-Peer Mesh Messaging" width="49%" />
     </picture>
   </a>&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/acdris-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/projects/acdris-light.svg" />
-    <img src="./assets/projects/acdris-dark.svg" alt="ACDRIS — Airspace Conflict Detection & Risk Intelligence System" width="49%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/acdris-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/acdris-light.svg" />
+    <img src="./assets/cards/acdris-dark.svg" alt="ACDRIS — Airspace Conflict Detection & Risk Intelligence System" width="49%" />
   </picture>
 </p>
 
 <p align="center">
   <a href="https://github.com/Java-Mx/CTVAM-VulnerabilityAnalysisModel">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/ctvam-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/projects/ctvam-light.svg" />
-      <img src="./assets/projects/ctvam-dark.svg" alt="CTVAM — Cybersecurity Threat & Vulnerability Analysis Model" width="49%" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/ctvam-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/ctvam-light.svg" />
+      <img src="./assets/cards/ctvam-dark.svg" alt="CTVAM — Cybersecurity Threat & Vulnerability Analysis Model" width="49%" />
     </picture>
   </a>&nbsp;
   <a href="https://github.com/Java-Mx/Internet-Exposure-Engine">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/aeris-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/projects/aeris-light.svg" />
-      <img src="./assets/projects/aeris-dark.svg" alt="AERIS — Autonomous Exposure & Risk Intelligence System" width="49%" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/aeris-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/aeris-light.svg" />
+      <img src="./assets/cards/aeris-dark.svg" alt="AERIS — Autonomous Exposure & Risk Intelligence System" width="49%" />
     </picture>
   </a>
 </p>
@@ -119,15 +123,15 @@
 <p align="center">
   <a href="https://github.com/Java-Mx/VMDB-OpenSourceSoftware">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/vmdb-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/projects/vmdb-light.svg" />
-      <img src="./assets/projects/vmdb-dark.svg" alt="VMDB-OSS — Vulnerability Management Database for Open-Source Software" width="49%" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/vmdb-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/vmdb-light.svg" />
+      <img src="./assets/cards/vmdb-dark.svg" alt="VMDB-OSS — Vulnerability Management Database for Open-Source Software" width="49%" />
     </picture>
   </a>&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/project19-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/projects/project19-light.svg" />
-    <img src="./assets/projects/project19-dark.svg" alt="Project 19 — Deterministic Cyber Risk Intelligence" width="49%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/project19-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cards/project19-light.svg" />
+    <img src="./assets/cards/project19-dark.svg" alt="Project 19 — Deterministic Cyber Risk Intelligence" width="49%" />
   </picture>
 </p>
 
@@ -135,29 +139,29 @@
 
 ### Contribution Activity
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Java-Mx">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/heatmap-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/heatmap-light.svg" />
+      <img src="./assets/heatmap-dark.svg" alt="Ashwin Chhawaniya (Java-Mx) full-year GitHub contribution heatmap" width="100%" />
+    </picture>
+  </a>
+</p>
 
-<a href="https://github.com/Java-Mx">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contrib-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/contrib-light.svg" />
-    <img src="./assets/contrib-dark.svg" alt="Ashwin Chhawaniya (Java-Mx) dark-mode full-year GitHub contribution calendar" width="100%" />
-  </picture>
-</a>
+<p align="center">
+  <a href="https://github.com/Java-Mx">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/trend-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/trend-light.svg" />
+      <img src="./assets/trend-dark.svg" alt="Ashwin Chhawaniya (Java-Mx) 30-day contribution trend" width="100%" />
+    </picture>
+  </a>
+</p>
 
-<br /><br />
-
-<a href="https://github.com/Java-Mx">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-light.svg" />
-    <img src="./assets/activity-dark.svg" alt="Ashwin Chhawaniya (Java-Mx) 30-day gridless contribution trend graph" width="100%" />
-  </picture>
-</a>
-
-<sub>Auto-updated daily via GitHub GraphQL for <a href="https://github.com/Java-Mx">@Java-Mx</a> · View full public &amp; private calendar on <a href="https://github.com/Java-Mx">GitHub</a>.</sub>
-
-</div>
+<p align="center">
+  <sub>Auto-updated daily via GitHub GraphQL for <a href="https://github.com/Java-Mx">@Java-Mx</a>.</sub>
+</p>
 
 ---
 
@@ -166,9 +170,9 @@
 <p align="center">
   <a href="https://github.com/Java-Mx">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg" />
-      <img alt="Ashwin Chhawaniya (Java-Mx) live GitHub Activity, Contribution Streak, and Top Languages" src="./assets/stats-dark.svg" width="100%" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/metrics-light.svg" />
+      <img alt="Ashwin Chhawaniya (Java-Mx) GitHub Activity, Streak, and Languages" src="./assets/metrics-dark.svg" width="100%" />
     </picture>
   </a>
 </p>
@@ -179,9 +183,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/focus-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/focus-light.svg" />
-    <img alt="Current Focus: Native Rust Systems, Deterministic Cyber Risk, Explainable Data Engineering" src="./assets/focus-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/focus-v2-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/focus-v2-light.svg" />
+    <img alt="Current Focus: Native Rust & Systems, Cyber Risk Intelligence, Security Data Engineering" src="./assets/focus-v2-dark.svg" width="100%" />
   </picture>
 </p>
 
@@ -191,9 +195,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/credentials-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/credentials-light.svg" />
-    <img alt="Education and Certifications — BBA (Hons.) in Artificial Intelligence and 6 verified credentials" src="./assets/credentials-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/edu-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/edu-light.svg" />
+    <img alt="Education and Certifications — BBA (Hons.) in Artificial Intelligence and 6 verified credentials" src="./assets/edu-dark.svg" width="100%" />
   </picture>
 </p>
 
