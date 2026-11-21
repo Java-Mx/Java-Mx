@@ -8,12 +8,6 @@
 
 <br />
 
-**AI · CYBERSECURITY · FINTECH · DATA ENGINEERING** &nbsp;|&nbsp; Pune, India
-
-*Building explainable risk intelligence systems at the intersection of AI, cybersecurity, and data engineering.*
-
-<br />
-
 <a href="https://ashes.base44.app"><img src="https://img.shields.io/badge/Portfolio-ashes.base44.app-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff" alt="Portfolio — ashes.base44.app" height="28" /></a>
 <a href="https://linkedin.com/in/mxfed"><img src="https://img.shields.io/badge/LinkedIn-mxfed-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn — mxfed" height="28" /></a>
 <a href="https://github.com/Java-Mx"><img src="https://img.shields.io/badge/GitHub-Java--Mx-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3" alt="GitHub — Java-Mx" height="28" /></a>
@@ -29,66 +23,36 @@
 - AI undergraduate (`BBA Hons.`) at **Symbiosis Artificial Intelligence Institute, Pune**
 - Focused on **FinTech**, **Cybersecurity**, and **deterministic risk intelligence**
 - Engineering explainable pipelines, normalized security databases, and auditable scoring models
-- Building practical systems across native **Rust + Python** software and vulnerability analytics
+- Building practical systems across native **Rust + Python** networking and vulnerability analytics
 
-> **Currently exploring:** Native Rust (`PyO3` / `Maturin`) & BLE/LAN mesh systems · Deterministic CVE/exposure scoring · Security data engineering
+> **Currently exploring:** Native Rust (`PyO3` / `Maturin`) · Cross-platform BLE/LAN mesh systems · Deterministic CVE & exposure intelligence
 
 ---
 
 ### Tech Stack
 
-<div align="center">
-
-**Programming**  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,rust,html,css,js&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,rust,html,css,js&theme=light" />
-  <img alt="Python, Rust, HTML, CSS, JavaScript" src="https://skillicons.dev/icons?i=py,rust,html,css,js&theme=dark" height="44" />
-</picture>
-&nbsp;
-<img src="https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=58a6ff" alt="SQL" height="28" />
-
-<br />
-
-**Data, Analytics & ML**  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/pandas-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-  <img src="./assets/pandas-dark.svg" alt="Pandas" title="Pandas" height="36" />
-</picture>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" height="36" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" title="Streamlit" height="36" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" height="36" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" alt="NetworkX" title="NetworkX" height="36" />
-<br />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,sklearn,pytorch&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,sklearn,pytorch&theme=light" />
-  <img alt="FastAPI, Scikit-learn, PyTorch" src="https://skillicons.dev/icons?i=fastapi,sklearn,pytorch&theme=dark" height="42" />
-</picture>
-&nbsp;
-<img src="https://img.shields.io/badge/Power%20BI-161b22?style=flat-square&logo=powerbi&logoColor=f2c811" alt="Power BI" height="28" />
-<img src="https://img.shields.io/badge/APScheduler-161b22?style=flat-square&logo=python&logoColor=58a6ff" alt="APScheduler" height="28" />
-
-<br />
-
-**Databases** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Infrastructure & Native Tooling**  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=light" />
-  <img alt="PostgreSQL, MySQL, SQLite" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" height="44" />
-</picture>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,github,linux,githubactions&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git,github,linux,githubactions&theme=light" />
-  <img alt="Docker, Git, GitHub, Linux, GitHub Actions" src="https://skillicons.dev/icons?i=docker,git,github,linux,githubactions&theme=dark" height="44" />
-</picture>
-<br />
-<img src="https://img.shields.io/badge/PyO3-161b22?style=flat-square&logo=rust&logoColor=e6edf3" alt="PyO3" height="26" />
-<img src="https://img.shields.io/badge/Maturin-161b22?style=flat-square&logo=rust&logoColor=e6edf3" alt="Maturin" height="26" />
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,rust,html,css,js,postgres,mysql,sqlite,fastapi,sklearn,pytorch,docker,git,github,linux,githubactions&perline=16&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,rust,html,css,js,postgres,mysql,sqlite,fastapi,sklearn,pytorch,docker,git,github,linux,githubactions&perline=16&theme=light" />
+    <img alt="Python, Rust, HTML, CSS, JavaScript, PostgreSQL, MySQL, SQLite, FastAPI, Scikit-learn, PyTorch, Docker, Git, GitHub, Linux, GitHub Actions" src="https://skillicons.dev/icons?i=py,rust,html,css,js,postgres,mysql,sqlite,fastapi,sklearn,pytorch,docker,git,github,linux,githubactions&perline=16&theme=dark" height="34" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/pandas-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+    <img src="./assets/pandas-dark.svg" alt="Pandas" title="Pandas" height="30" />
+  </picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" title="Streamlit" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" alt="NetworkX" title="NetworkX" height="30" />
+  <img src="https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=58a6ff" alt="SQL" height="24" />
+  <img src="https://img.shields.io/badge/Power%20BI-161b22?style=flat-square&logo=powerbi&logoColor=f2c811" alt="Power BI" height="24" />
+  <img src="https://img.shields.io/badge/APScheduler-161b22?style=flat-square&logo=python&logoColor=58a6ff" alt="APScheduler" height="24" />
+  <img src="https://img.shields.io/badge/PyO3-161b22?style=flat-square&logo=rust&logoColor=e6edf3" alt="PyO3" height="24" />
+  <img src="https://img.shields.io/badge/Maturin-161b22?style=flat-square&logo=rust&logoColor=e6edf3" alt="Maturin" height="24" />
+</p>
 
 ---
 
@@ -98,10 +62,10 @@
   <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/Java-Mx/bitchat-rustpy">BitChat RustPy</a></strong> &nbsp;<img src="https://img.shields.io/badge/Flagship-v0.3.4-161b22?style=flat-square&labelColor=0d1117&color=2f81f7" alt="Flagship Release v0.3.4" align="absmiddle" /><br />
-      <sub>Encrypted Peer-to-Peer Mesh Messaging · Published on WinGet</sub><br /><br />
-      Offline-first P2P mesh communication powered by a native Rust core, Noise XX cryptography, BLE, and LAN transports.<br /><br />
-      <code>Rust</code> <code>Python</code> <code>PyO3</code> <code>Maturin</code> <code>BLE</code> <code>Noise XX</code><br /><br />
-      <a href="https://github.com/Java-Mx/bitchat-rustpy"><strong>View Repository &rarr;</strong></a> &nbsp;·&nbsp; <a href="https://java-mx.github.io/bitchat-rustpy/">Docs &amp; Downloads</a>
+      <sub>Encrypted Peer-to-Peer Mesh Messaging</sub><br /><br />
+      Offline-first P2P mesh communication with an authoritative native Rust core, Noise XX cryptography, BLE &amp; LAN transports, and Microsoft WinGet distribution.<br /><br />
+      <code>Rust</code> <code>Python</code> <code>PyO3</code> <code>BLE</code> <code>LAN</code> <code>Noise XX</code><br /><br />
+      <a href="https://github.com/Java-Mx/bitchat-rustpy"><strong>View Repository &rarr;</strong></a> &nbsp;·&nbsp; <a href="https://java-mx.github.io/bitchat-rustpy/"><strong>Docs &rarr;</strong></a>
     </td>
     <td width="50%" valign="top">
       <strong>ACDRIS</strong> &nbsp;<img src="https://img.shields.io/badge/Status-Private-161b22?style=flat-square&labelColor=0d1117&color=6e7681" alt="Status: Private" align="absmiddle" /><br />
@@ -129,18 +93,18 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>Project 19</strong> &nbsp;<img src="https://img.shields.io/badge/Status-Private-161b22?style=flat-square&labelColor=0d1117&color=6e7681" alt="Status: Private" align="absmiddle" /><br />
-      <sub>Deterministic Cyber Risk Intelligence</sub><br /><br />
-      Auditable vulnerability risk scoring built on canonical validation schemas, explicit rules, and traceable thresholds.<br /><br />
-      <code>Python</code> <code>NVD CVE</code> <code>Canonical Schemas</code> <code>Rule Engine</code><br /><br />
-      <sub><em>Private repository</em></sub>
-    </td>
-    <td width="50%" valign="top">
       <strong><a href="https://github.com/Java-Mx/VMDB-OpenSourceSoftware">VMDB-OSS</a></strong> &nbsp;<img src="https://img.shields.io/badge/Status-Public-161b22?style=flat-square&labelColor=0d1117&color=2f81f7" alt="Status: Public" align="absmiddle" /><br />
       <sub>Vulnerability Management Database for Open-Source Software</sub><br /><br />
       Normalized 3NF MySQL schema with foreign keys, views, and stored procedures for CVE remediation and audit workflows.<br /><br />
       <code>MySQL</code> <code>3NF Schema</code> <code>SQL Views</code> <code>Stored Procedures</code><br /><br />
       <a href="https://github.com/Java-Mx/VMDB-OpenSourceSoftware"><strong>View Repository &rarr;</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Project 19</strong> &nbsp;<img src="https://img.shields.io/badge/Status-Private-161b22?style=flat-square&labelColor=0d1117&color=6e7681" alt="Status: Private" align="absmiddle" /><br />
+      <sub>Deterministic Cyber Risk Intelligence</sub><br /><br />
+      Auditable vulnerability risk scoring built on canonical validation schemas, explicit rules, and traceable thresholds.<br /><br />
+      <code>Python</code> <code>NVD CVE</code> <code>Canonical Schemas</code> <code>Rule Engine</code><br /><br />
+      <sub><em>Private repository</em></sub>
     </td>
   </tr>
 </table>
@@ -152,16 +116,24 @@
 <div align="center">
 
 <a href="https://github.com/Java-Mx">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Java-Mx&theme=github_dark" alt="Ashwin Chhawaniya (Java-Mx) full-year dark GitHub contribution overview" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contrib-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/contrib-light.svg" />
+    <img src="./assets/contrib-dark.svg" alt="Ashwin Chhawaniya (Java-Mx) dark-mode full-year GitHub contribution calendar" width="100%" />
+  </picture>
 </a>
 
-<br />
+<br /><br />
 
 <a href="https://github.com/Java-Mx">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Java-Mx&bg_color=0d1117&color=e6edf3&line=2f81f7&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&grid=false" alt="Ashwin Chhawaniya (Java-Mx) dark grid-free GitHub contribution activity graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/activity-light.svg" />
+    <img src="./assets/activity-dark.svg" alt="Ashwin Chhawaniya (Java-Mx) 30-day gridless contribution trend graph" width="100%" />
+  </picture>
 </a>
 
-<sub>Live dark-theme contribution graphs for <a href="https://github.com/Java-Mx">@Java-Mx</a> · Recent profile snapshot: 228 contributions in the last year (view full live calendar on <a href="https://github.com/Java-Mx">GitHub</a>).</sub>
+<sub>Auto-updated daily via GitHub GraphQL for <a href="https://github.com/Java-Mx">@Java-Mx</a> · View full public &amp; private calendar on <a href="https://github.com/Java-Mx">GitHub</a>.</sub>
 
 </div>
 
@@ -171,9 +143,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Java-Mx&show_icons=true&bg_color=0d1117&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Java-Mx GitHub Statistics" height="162" />
-<img src="https://streak-stats.demolab.com/?user=Java-Mx&background=0d1117&hide_border=true&ring=2f81f7&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" alt="Java-Mx Contribution Streak" height="162" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Java-Mx&layout=compact&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Java-Mx Top Languages" height="162" />
+<img src="https://github-readme-stats.vercel.app/api?username=Java-Mx&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=7d8590" alt="Java-Mx GitHub Statistics" height="162" />
+<img src="https://streak-stats.demolab.com/?user=Java-Mx&theme=transparent&hide_border=true&ring=2f81f7&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=7d8590&dates=7d8590&currStreakNum=7d8590&sideNums=7d8590" alt="Java-Mx Contribution Streak" height="162" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Java-Mx&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=7d8590" alt="Java-Mx Top Languages" height="162" />
 
 </div>
 
@@ -207,8 +179,6 @@
 ---
 
 <div align="center">
-
-**Connect**
 
 <a href="https://ashes.base44.app">Portfolio</a> &nbsp;·&nbsp;
 <a href="https://linkedin.com/in/mxfed">LinkedIn</a> &nbsp;·&nbsp;

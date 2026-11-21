@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="190" viewBox="0 0 840 190" role="img" aria-label="Java-Mx 30-day contribution activity curve">
+  <defs>
+    <linearGradient id="area-grad-dark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2f81f7" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#2f81f7" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="839" height="189" rx="12" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <text x="24" y="28" fill="#e6edf3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">30-Day Contribution Trend</text>
+  <text x="816" y="28" text-anchor="end" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">46 commits &amp; events · peak 22/day</text>
+  <path d="M 36.0 156.0 C 49.4 156.0, 49.4 151.1, 62.8 151.1 C 76.1 151.1, 76.1 156.0, 89.5 156.0 C 102.9 156.0, 102.9 156.0, 116.3 156.0 C 129.7 156.0, 129.7 156.0, 143.0 156.0 C 156.4 156.0, 156.4 146.2, 169.8 146.2 C 183.2 146.2, 183.2 156.0, 196.6 156.0 C 209.9 156.0, 209.9 156.0, 223.3 156.0 C 236.7 156.0, 236.7 156.0, 250.1 156.0 C 263.4 156.0, 263.4 156.0, 276.8 156.0 C 290.2 156.0, 290.2 156.0, 303.6 156.0 C 317.0 156.0, 317.0 156.0, 330.3 156.0 C 343.7 156.0, 343.7 116.7, 357.1 116.7 C 370.5 116.7, 370.5 156.0, 383.9 156.0 C 397.2 156.0, 397.2 156.0, 410.6 156.0 C 424.0 156.0, 424.0 156.0, 437.4 156.0 C 450.8 156.0, 450.8 156.0, 464.1 156.0 C 477.5 156.0, 477.5 156.0, 490.9 156.0 C 504.3 156.0, 504.3 156.0, 517.7 156.0 C 531.0 156.0, 531.0 126.5, 544.4 126.5 C 557.8 126.5, 557.8 156.0, 571.2 156.0 C 584.6 156.0, 584.6 156.0, 597.9 156.0 C 611.3 156.0, 611.3 156.0, 624.7 156.0 C 638.1 156.0, 638.1 156.0, 651.4 156.0 C 664.8 156.0, 664.8 146.2, 678.2 146.2 C 691.6 146.2, 691.6 151.1, 705.0 151.1 C 718.3 151.1, 718.3 156.0, 731.7 156.0 C 745.1 156.0, 745.1 48.0, 758.5 48.0 C 771.9 48.0, 771.9 151.1, 785.2 151.1 C 798.6 151.1, 798.6 141.3, 812.0 141.3 L 812.0 156.0 L 36.0 156.0 Z" fill="url(#area-grad-dark)"/>
+  <path d="M 36.0 156.0 C 49.4 156.0, 49.4 151.1, 62.8 151.1 C 76.1 151.1, 76.1 156.0, 89.5 156.0 C 102.9 156.0, 102.9 156.0, 116.3 156.0 C 129.7 156.0, 129.7 156.0, 143.0 156.0 C 156.4 156.0, 156.4 146.2, 169.8 146.2 C 183.2 146.2, 183.2 156.0, 196.6 156.0 C 209.9 156.0, 209.9 156.0, 223.3 156.0 C 236.7 156.0, 236.7 156.0, 250.1 156.0 C 263.4 156.0, 263.4 156.0, 276.8 156.0 C 290.2 156.0, 290.2 156.0, 303.6 156.0 C 317.0 156.0, 317.0 156.0, 330.3 156.0 C 343.7 156.0, 343.7 116.7, 357.1 116.7 C 370.5 116.7, 370.5 156.0, 383.9 156.0 C 397.2 156.0, 397.2 156.0, 410.6 156.0 C 424.0 156.0, 424.0 156.0, 437.4 156.0 C 450.8 156.0, 450.8 156.0, 464.1 156.0 C 477.5 156.0, 477.5 156.0, 490.9 156.0 C 504.3 156.0, 504.3 156.0, 517.7 156.0 C 531.0 156.0, 531.0 126.5, 544.4 126.5 C 557.8 126.5, 557.8 156.0, 571.2 156.0 C 584.6 156.0, 584.6 156.0, 597.9 156.0 C 611.3 156.0, 611.3 156.0, 624.7 156.0 C 638.1 156.0, 638.1 156.0, 651.4 156.0 C 664.8 156.0, 664.8 146.2, 678.2 146.2 C 691.6 146.2, 691.6 151.1, 705.0 151.1 C 718.3 151.1, 718.3 156.0, 731.7 156.0 C 745.1 156.0, 745.1 48.0, 758.5 48.0 C 771.9 48.0, 771.9 151.1, 785.2 151.1 C 798.6 151.1, 798.6 141.3, 812.0 141.3" fill="none" stroke="#2f81f7" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="62.8" cy="151.1" r="3.2" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"><title>2026-10-24: 1 contributions</title></circle>
+  <circle cx="169.8" cy="146.2" r="3.2" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"><title>2026-10-28: 2 contributions</title></circle>
+  <circle cx="357.1" cy="116.7" r="3.2" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"><title>2026-11-04: 8 contributions</title></circle>
+  <circle cx="544.4" cy="126.5" r="3.2" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"><title>2026-11-11: 6 contributions</title></circle>
+  <circle cx="678.2" cy="146.2" r="3.2" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"><title>2026-11-16: 2 contributions</title></circle>
+  <circle cx="705.0" cy="151.1" r="3.2" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"><title>2026-11-17: 1 contributions</title></circle>
+  <circle cx="758.5" cy="48.0" r="3.2" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"><title>2026-11-19: 22 contributions</title></circle>
+  <circle cx="785.2" cy="151.1" r="3.2" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"><title>2026-11-20: 1 contributions</title></circle>
+  <circle cx="812.0" cy="141.3" r="3.2" fill="#58a6ff" stroke="#0d1117" stroke-width="1.5"><title>2026-11-21: 3 contributions</title></circle>
+  <text x="36.0" y="178" text-anchor="start" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">Oct 23</text>
+  <text x="223.3" y="178" text-anchor="middle" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">Oct 30</text>
+  <text x="437.4" y="178" text-anchor="middle" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">Nov 7</text>
+  <text x="624.7" y="178" text-anchor="middle" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">Nov 14</text>
+  <text x="812.0" y="178" text-anchor="end" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">Nov 21</text>
+</svg>
