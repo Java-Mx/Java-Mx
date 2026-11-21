@@ -178,37 +178,36 @@
 
 ### Current Focus
 
-<table>
-  <tr>
-    <td width="33%" align="center"><strong>Native Rust Systems</strong><br /><sub>Memory-safe protocol &amp; P2P networking</sub></td>
-    <td width="33%" align="center"><strong>Deterministic Cyber Risk</strong><br /><sub>Auditable vulnerability &amp; exposure scoring</sub></td>
-    <td width="33%" align="center"><strong>Explainable Data Engineering</strong><br /><sub>Structured pipelines &amp; security analytics</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/focus-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/focus-light.svg" />
+    <img alt="Current Focus: Native Rust Systems, Deterministic Cyber Risk, Explainable Data Engineering" src="./assets/focus-dark.svg" width="100%" />
+  </picture>
+</p>
 
 ---
 
 ### Education & Certifications
 
-**BBA (Hons.) in Artificial Intelligence** — Symbiosis Artificial Intelligence Institute, Pune (`2025–Present`)
-
-<p>
-  <img src="https://img.shields.io/badge/GDPR_Certification-Udemy-161b22?style=flat-square&labelColor=0d1117&color=2f81f7" alt="GDPR Certification — Udemy" />
-  <img src="https://img.shields.io/badge/Advanced_SQL-HackerRank-161b22?style=flat-square&labelColor=0d1117&logo=hackerrank&logoColor=58a6ff&color=2f81f7" alt="Advanced SQL — HackerRank" />
-  <img src="https://img.shields.io/badge/Problem_Solving_(Intermediate)-HackerRank-161b22?style=flat-square&labelColor=0d1117&logo=hackerrank&logoColor=58a6ff&color=2f81f7" alt="Problem Solving Intermediate — HackerRank" />
-  <img src="https://img.shields.io/badge/CEH_v13_Intro_to_Ethical_Hacking-Skillsoft-161b22?style=flat-square&labelColor=0d1117&color=2f81f7" alt="CEH v13 Introduction to Ethical Hacking — Skillsoft" />
-  <img src="https://img.shields.io/badge/Azure_Fundamentals:_IoT_%26_AI-Skillsoft-161b22?style=flat-square&labelColor=0d1117&color=2f81f7" alt="Azure Fundamentals: IoT & AI — Skillsoft" />
-  <img src="https://img.shields.io/badge/DELF_A1_%26_A2-French-161b22?style=flat-square&labelColor=0d1117&color=2f81f7" alt="DELF A1 and A2 — French" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/credentials-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/credentials-light.svg" />
+    <img alt="Education and Certifications — BBA (Hons.) in Artificial Intelligence and 6 verified credentials" src="./assets/credentials-dark.svg" width="100%" />
+  </picture>
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <a href="https://ashes.base44.app"><img src="https://img.shields.io/badge/Portfolio-161b22?style=flat-square&logo=vercel&logoColor=58a6ff" alt="Portfolio" height="24" /></a>&nbsp;
+  <a href="https://linkedin.com/in/mxfed"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" height="24" /></a>&nbsp;
+  <a href="https://github.com/Java-Mx"><img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=e6edf3" alt="GitHub" height="24" /></a>&nbsp;
+  <a href="mailto:ashwinchhawaniya2@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=58a6ff" alt="Email" height="24" /></a>&nbsp;
+  <a href="https://x.com/Itz_JavaMx"><img src="https://img.shields.io/badge/X-161b22?style=flat-square&logo=x&logoColor=e6edf3" alt="X" height="24" /></a>
+</p>
 
-<a href="https://ashes.base44.app">Portfolio</a> &nbsp;·&nbsp;
-<a href="https://linkedin.com/in/mxfed">LinkedIn</a> &nbsp;·&nbsp;
-<a href="https://github.com/Java-Mx">GitHub</a> &nbsp;·&nbsp;
-<a href="mailto:ashwinchhawaniya2@gmail.com">Email</a> &nbsp;·&nbsp;
-<a href="https://x.com/Itz_JavaMx">X</a>
-
-</div>
+<p align="center">
+  <sub>Ashwin Chhawaniya · Pune, India</sub>
+</p>
