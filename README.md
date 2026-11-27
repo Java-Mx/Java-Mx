@@ -142,9 +142,9 @@
 <p align="center">
   <a href="https://github.com/Java-Mx">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Java-Mx/Java-Mx/main/assets/heatmap-dark.svg?v=6cf540d0" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Java-Mx/Java-Mx/main/assets/heatmap-light.svg?v=6cf540d0" />
-      <img src="https://raw.githubusercontent.com/Java-Mx/Java-Mx/main/assets/heatmap-dark.svg?v=6cf540d0" alt="Ashwin Chhawaniya (Java-Mx) full-year GitHub contribution heatmap" width="100%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Java-Mx/Java-Mx/main/assets/heatmap-dark.svg?v=74490a74" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Java-Mx/Java-Mx/main/assets/heatmap-light.svg?v=74490a74" />
+      <img src="https://raw.githubusercontent.com/Java-Mx/Java-Mx/main/assets/heatmap-dark.svg?v=74490a74" alt="Ashwin Chhawaniya (Java-Mx) full-year GitHub contribution heatmap" width="100%" />
     </picture>
   </a>
 </p>
@@ -152,9 +152,9 @@
 <p align="center">
   <a href="https://github.com/Java-Mx">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Java-Mx/Java-Mx/main/assets/trend-dark.svg?v=6cf540d0" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Java-Mx/Java-Mx/main/assets/trend-light.svg?v=6cf540d0" />
-      <img src="https://raw.githubusercontent.com/Java-Mx/Java-Mx/main/assets/trend-dark.svg?v=6cf540d0" alt="Ashwin Chhawaniya (Java-Mx) 30-day contribution trend" width="100%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Java-Mx/Java-Mx/main/assets/trend-dark.svg?v=74490a74" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Java-Mx/Java-Mx/main/assets/trend-light.svg?v=74490a74" />
+      <img src="https://raw.githubusercontent.com/Java-Mx/Java-Mx/main/assets/trend-dark.svg?v=74490a74" alt="Ashwin Chhawaniya (Java-Mx) 30-day contribution trend" width="100%" />
     </picture>
   </a>
 </p>
@@ -170,9 +170,9 @@
 <p align="center">
   <a href="https://github.com/Java-Mx">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Java-Mx/Java-Mx/main/assets/metrics-dark.svg?v=6cf540d0" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Java-Mx/Java-Mx/main/assets/metrics-light.svg?v=6cf540d0" />
-      <img alt="Ashwin Chhawaniya (Java-Mx) GitHub Activity, Streak, and Languages" src="https://raw.githubusercontent.com/Java-Mx/Java-Mx/main/assets/metrics-dark.svg?v=6cf540d0" width="100%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Java-Mx/Java-Mx/main/assets/metrics-dark.svg?v=74490a74" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Java-Mx/Java-Mx/main/assets/metrics-light.svg?v=74490a74" />
+      <img alt="Ashwin Chhawaniya (Java-Mx) GitHub Activity, Streak, and Languages" src="https://raw.githubusercontent.com/Java-Mx/Java-Mx/main/assets/metrics-dark.svg?v=74490a74" width="100%" />
     </picture>
   </a>
 </p>
